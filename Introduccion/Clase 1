@@ -1,9 +1,18 @@
-# 🧾 Tema
+# 🧾 Tema: 
+Introduccion
 
-## 🧩 Conceptos clave
+## 🧩 Conceptos clave:
+Internet
+WWW
+Protocolos IP
 
-## 📖 Explicación
-
+## 📖 Explicación:
+Las primeras computadoras surgieron por 1970, luego Apple empezó a tomar protagonismo y sacó la primera compu con pantalla, perifericos y empezo a mostrar imágenes a color. Luego, el departamento de Defensa de 
+EEUU (ARPANET) sentó las bases para lo que hoy es internet, el protocolo implementado es el que hoy sostiene las comunicaciones del mundo TCP/IP.
+Primera pagina web: https://worldwideweb.cern.ch/browser/#file://WWW/blank.html
+Web != Internet.
+La internet es la infraestructura física. Conexión entre computadoras.
+La web es una colección de páginas que se asientan sobre internet. Son los documentos, datos la información.
 ## 💻 Código
 
 ## ⚠️ Errores
